@@ -1,0 +1,1 @@
+{"name":"Local: B_Charming_Meals","url":"/Users/matthewcaseres/Documents/c++/c-/B_Charming_Meals.cpp","tests":[{"id":1716586236427,"input":"1\n5\n1 2 3 4 5\n1 2 3 4 5","output":"1000000000\n2\n100\n30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/matthewcaseres/Documents/c++/c-/B_Charming_Meals.cpp","group":"local","local":true}
